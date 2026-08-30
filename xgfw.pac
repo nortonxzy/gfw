@@ -1,4 +1,4 @@
-var proxy = "PROXY nas.norton.fun:17890";
+var proxy = "PROXY http://nas.norton.fun:17890";
 
 var direct = 'DIRECT';
 
